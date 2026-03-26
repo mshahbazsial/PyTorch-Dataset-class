@@ -47,6 +47,3 @@ class NameDataset(Dataset):
         country_tensor[label] = 1
         
         return name_tensor, country_tensor
-
-or.shape)
-    # Your training code here
